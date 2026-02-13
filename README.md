@@ -1,4 +1,4 @@
-<b>Pythonpracticeproject1</b>
+<h1>Pythonpracticeproject1</h1>
 
 My Python Practice Project 1
 <hr>
